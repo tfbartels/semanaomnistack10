@@ -1,3 +1,4 @@
 ## Semana Omnistack 10
 
-Aplicacao desenvolvida durante a décima semana Oministack.
+Aplicacao utilizando Express, ReactJS e React Native. 
+Desenvolvida durante a décima semana Oministack.
